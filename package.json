@@ -1,0 +1,24 @@
+{
+  "name": "mint",
+  "version": "1.0.0",
+  "description": "Click on `Use this template` to copy the Mintlify starter kit. The starter kit contains examples including",
+  "main": "index.js",
+  "scripts": {
+    "dev": "mint dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sir-siren/docs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sir-siren/docs/issues"
+  },
+  "homepage": "https://github.com/sir-siren/docs#readme",
+  "dependencies": {
+    "mintlify": "^4.2.75"
+  }
+}
